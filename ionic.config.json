@@ -1,0 +1,7 @@
+{
+  "name": "ewa-mobile-tabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
